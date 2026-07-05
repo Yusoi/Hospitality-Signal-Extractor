@@ -5,6 +5,12 @@
 
 Setup a `.env` file at the top folder with an OpenAI key that allows for `gpt-5.4-mini` and `gpt-5.4-nano`
 
+This is the template for the `.env` file:
+
+```text
+OPENAI_API_KEY=
+```
+
 # How to run the project
 
 ## Test the model
