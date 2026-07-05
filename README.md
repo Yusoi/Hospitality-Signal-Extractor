@@ -1,6 +1,7 @@
 # Requirements
 
-uv >=0.11.26 <0.12
+- `python 3.14`
+- `uv >=0.11.26 <0.12`
 
 Setup a `.env` file at the top folder with an OpenAI key that allows for `gpt-5.4-mini` and `gpt-5.4-nano`
 
